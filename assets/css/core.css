@@ -1,7 +1,7 @@
 .tab {
     overflow: hidden;
-    border: 1px solid #cccccc;
-    background-color: #f1f1f1;
+    border: 1px solid #A8B6C3;
+    background-color: #D3E4F4;
 }
 
 .tab button {
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #cccccc;
+    background-color: #A8B6C3;
 }
 
 .tabContent {
@@ -38,7 +38,7 @@
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #dddddd;
+    border: 1px solid #cdd9f0;
     margin-bottom: 12px;
 }
 
@@ -77,7 +77,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #5a5454;
+    color: #50545b;
 }
 
 @media screen and (max-width: break) {
@@ -94,7 +94,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #5a5454;
+    color: #50545b;
   }
 }
 
@@ -111,6 +111,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #5a5454;
+    color: #50545b;
   }
 }
