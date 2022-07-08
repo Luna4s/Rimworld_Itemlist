@@ -8,7 +8,7 @@ facebook:
 flickr:
 gitlab:
 github:
-instagram:
+instagram: Luna4ss
 keybase:
 linkedin:
 pinterest:
@@ -18,16 +18,16 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: Luna4ss
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UC5WTvoWVZfKTr-9RbIUk_9w
+twitch: Luna4s
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:
