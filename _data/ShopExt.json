@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -56,8 +56,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -118,8 +118,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -148,8 +148,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -178,8 +178,8 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -218,8 +218,8 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -258,8 +258,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -288,8 +288,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -318,8 +318,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -350,8 +350,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -382,8 +382,8 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -416,8 +416,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -428,9 +428,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -458,9 +458,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -488,9 +488,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -536,8 +536,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -566,8 +566,8 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -596,8 +596,8 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -628,8 +628,8 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -660,8 +660,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -690,8 +690,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -720,8 +720,8 @@
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -750,8 +750,8 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -780,8 +780,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -810,8 +810,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -840,8 +840,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -870,8 +870,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -900,8 +900,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -930,8 +930,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -960,8 +960,8 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -992,8 +992,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -1022,8 +1022,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 0
     },
     {
@@ -1054,8 +1054,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1084,8 +1084,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1114,8 +1114,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1144,8 +1144,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1174,8 +1174,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1206,8 +1206,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1236,8 +1236,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1266,8 +1266,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1296,8 +1296,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1326,8 +1326,8 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -2
     },
     {
@@ -1356,8 +1356,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1386,8 +1386,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1416,8 +1416,8 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1446,8 +1446,8 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -2
     },
     {
@@ -1478,8 +1478,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1510,8 +1510,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1540,8 +1540,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1570,8 +1570,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1600,8 +1600,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1630,8 +1630,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -2
     },
     {
@@ -1660,8 +1660,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1690,8 +1690,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1720,8 +1720,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1750,8 +1750,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -2
     },
     {
@@ -1782,8 +1782,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1814,8 +1814,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1844,8 +1844,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 2
     },
     {
@@ -1874,8 +1874,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1904,8 +1904,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     },
     {
@@ -1934,8 +1934,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -2
     },
     {
@@ -1964,8 +1964,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": 1
     },
     {
@@ -1994,8 +1994,8 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1750,
+      "removePrice": 250,
       "degree": -1
     }
   ],
@@ -2020,7 +2020,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 750
     }
   ]
 }
