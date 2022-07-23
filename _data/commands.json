@@ -190,7 +190,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Buys a ticket to join the queue to get an unnamed pawn named after you.",
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -226,9 +226,9 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Buys the specified Event or Item. No specified quantity defaults to 1.",
     "name": "Buy",
-    "usage": "!buy",
+    "usage": "!buy <event/item> [quantity]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Buy"
@@ -622,7 +622,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Displays the list of kills your pawn has made this game.",
     "name": "Viewer kill count",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
@@ -676,7 +676,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Displays your pawn’s needs and their current satisfaction.",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -712,7 +712,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Displays all current hediffs a your pawn has.",
     "name": "Viewer body",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
@@ -784,7 +784,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Relinks a viewer to their pawn internally. This does not reconnect, nor otherwise connect, on Puppeteer.",
     "name": "Fix viewer pawn",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
