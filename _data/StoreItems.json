@@ -2573,7 +2573,13 @@
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": 1250
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 429
+  "total": 430
 }
