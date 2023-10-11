@@ -18,22 +18,34 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.9"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
+    "version": "6.3.0.1"
   },
   {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.2.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
   },
   {
     "author": "Owlchemist",
@@ -57,7 +69,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8572.18461"
+    "version": "1.0.8624.24517"
   },
   {
     "author": "arl85",
@@ -74,8 +86,8 @@
   {
     "author": "Jaxe",
     "name": "RimHUD",
-    "steamId": null,
-    "version": null
+    "steamId": "1508850027",
+    "version": "1.14.5.0"
   },
   {
     "author": "iforgotmysocks",
@@ -129,13 +141,19 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.6.0"
+    "version": "1.12.7.0"
   },
   {
     "author": "Proxyer",
     "name": "Small Shelf",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -166,12 +184,6 @@
     "name": "Smart Farming",
     "steamId": "2619652663",
     "version": "1.4"
-  },
-  {
-    "author": "Toasteh and Updated by Ogliss",
-    "name": "Veinminer R1.1",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FluffyKittens",
@@ -236,6 +248,318 @@
   {
     "author": "Falconne",
     "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1242.0"
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Trading Spot",
+    "steamId": "2874517333",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Oganesson",
+    "name": "[Og] Automatic Power Switch",
+    "steamId": "3031634496",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.0.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "金兔子拉面 and telardo",
+    "name": "AFU Cosmetic Gene Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Framework",
+    "steamId": "2897160312",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Display Shelves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Bulk Smelting (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Callouts 1.4",
+    "steamId": "2882283988",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2880668727",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Aamu Lumi",
+    "name": "Diary",
+    "steamId": "2888141826",
+    "version": "1.1.7"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dub's Paint Shop",
+    "steamId": "1579516669",
+    "version": "1.1.7359"
+  },
+  {
+    "author": "Zeracronius",
+    "name": "Dynamic Trade Interface",
+    "steamId": "3020706506",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Lowli",
+    "name": "Gene Bank Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Gene Extractor Tiers",
+    "steamId": "3016454783",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "theactualspinny",
+    "name": "Gene Trader",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Khorbos",
+    "name": "Go the F*** to Sleep - Forked",
+    "steamId": "2880337287",
+    "version": "1.0.2"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Vending machines",
+    "steamId": "3014885065",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Timuttie",
+    "name": "Just Leave Already",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sergkart",
+    "name": "Mechanoid Idle Optimization",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pureMJ",
+    "name": "Nutrient Paste Dispenser Command",
+    "steamId": "2894378050",
+    "version": "0.1.2"
+  },
+  {
+    "author": "Alleykat",
+    "name": "Persistent Precepts",
+    "steamId": "2944765939",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cem",
+    "name": "Positive Connections",
+    "steamId": "3003882069",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Compilatron and Owlchemist",
+    "name": "Power Tab 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
+  },
+  {
+    "author": "rswallen",
+    "name": "Schedule Clock",
+    "steamId": "3012379410",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
+  },
+  {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.4.3"
+  },
+  {
+    "author": "peytonshow",
+    "name": "The Most Powerful Dog!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "leeh",
+    "name": "Ugly Together",
+    "steamId": "2884233923",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sl4vP0weR",
+    "name": "We Are United",
+    "steamId": "3030804445",
+    "version": "1.0.0+8ffbc2c2cc8950f3a7d4ccc37b1c47da38715848"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "4.3.6.0"
+  },
+  {
+    "author": "these people",
+    "name": "Vampire Thralls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
+  },
+  {
+    "author": "OverPL",
+    "name": "Animal Sarcophagus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Goosegun",
+    "steamId": "2137597811",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "JF",
+    "name": "[JF] Royal Carpets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CaptainArbitrary",
+    "name": "Stuffable Tool Cabinets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
     "steamId": null,
     "version": null
   }
