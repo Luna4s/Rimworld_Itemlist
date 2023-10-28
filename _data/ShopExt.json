@@ -1983,7 +1983,7 @@
       "name": "unaffectedbydeath"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
       "removePrice": 3500,
