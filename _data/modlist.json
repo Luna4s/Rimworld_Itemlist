@@ -90,6 +90,12 @@
     "version": "1.14.5.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "4.4.0.0"
+  },
+  {
     "author": "iforgotmysocks",
     "name": "Just Copy",
     "steamId": "2836605140",
@@ -141,7 +147,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.7.0"
+    "version": "1.12.8.0"
   },
   {
     "author": "Proxyer",
@@ -288,28 +294,10 @@
     "version": null
   },
   {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.0.0"
-  },
-  {
     "author": "SmArtKar",
     "name": "Athena Framework",
     "steamId": "2903359518",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "telardo",
-    "name": "Better Gene Graphics Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "金兔子拉面 and telardo",
-    "name": "AFU Cosmetic Gene Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Creeper",
@@ -342,24 +330,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Chill the F*** Out",
-    "steamId": "2880668727",
-    "version": "1.0.2"
-  },
-  {
-    "author": "Aamu Lumi",
-    "name": "Diary",
-    "steamId": "2888141826",
-    "version": "1.1.7"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dub's Paint Shop",
-    "steamId": "1579516669",
-    "version": "1.1.7359"
-  },
-  {
     "author": "Zeracronius",
     "name": "Dynamic Trade Interface",
     "steamId": "3020706506",
@@ -372,40 +342,10 @@
     "version": null
   },
   {
-    "author": "RedMattis",
-    "name": "Gene Extractor Tiers",
-    "steamId": "3016454783",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "theactualspinny",
     "name": "Gene Trader",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Khorbos",
-    "name": "Go the F*** to Sleep - Forked",
-    "steamId": "2880337287",
-    "version": "1.0.2"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Vending machines",
-    "steamId": "3014885065",
-    "version": "1.0.0.0"
   },
   {
     "author": "Timuttie",
@@ -438,12 +378,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Compilatron and Owlchemist",
-    "name": "Power Tab 2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "seeki",
     "name": "Prioritize Meals over Preserved Foods",
     "steamId": null,
@@ -456,34 +390,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
-  },
-  {
     "author": "rswallen",
     "name": "Schedule Clock",
     "steamId": "3012379410",
     "version": "1.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple FX: Vapor",
-    "steamId": "2886571275",
-    "version": "1.4"
-  },
-  {
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
     "version": "1.4.3"
-  },
-  {
-    "author": "peytonshow",
-    "name": "The Most Powerful Dog!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "leeh",
@@ -504,32 +420,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "4.3.6.0"
-  },
-  {
     "author": "these people",
     "name": "Vampire Thralls",
     "steamId": null,
     "version": null
   },
   {
-    "author": "MarvinKosh",
-    "name": "Ugh You Got Me",
-    "steamId": "1542424705",
-    "version": "1.0.8325.19264"
-  },
-  {
     "author": "OverPL",
     "name": "Animal Sarcophagus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sea",
-    "name": "Consistent Gene Inheritance",
     "steamId": null,
     "version": null
   },
@@ -548,12 +446,6 @@
   {
     "author": "JF",
     "name": "[JF] Royal Carpets",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CaptainArbitrary",
-    "name": "Stuffable Tool Cabinets",
     "steamId": null,
     "version": null
   },
